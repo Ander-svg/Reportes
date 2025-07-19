@@ -1,10 +1,10 @@
-package com.incad.reporte;
+package com.incad.report;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReporteApplicationTests {
+class ReportApplicationTests {
 
 	@Test
 	void contextLoads() {

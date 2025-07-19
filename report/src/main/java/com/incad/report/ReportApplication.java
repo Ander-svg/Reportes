@@ -1,13 +1,13 @@
-package com.incad.reporte;
+package com.incad.report;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReporteApplication {
+public class ReportApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReporteApplication.class, args);
+		SpringApplication.run(ReportApplication.class, args);
 	}
 
 }
